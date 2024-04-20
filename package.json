@@ -1,0 +1,21 @@
+{
+  "name": "@jonx/greeting",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A simple learning demo for npm.",
+  "exports": "./index.js",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ousiax/getting-started-npm.git"
+  },
+  "author": "Jon X",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ousiax/getting-started-npm/issues"
+  },
+  "homepage": "https://github.com/ousiax/getting-started-npm#readme"
+}
